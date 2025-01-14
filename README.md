@@ -1,4 +1,4 @@
-# Hey there! 👋
+## Hey there! 👋
 
 ✨ I entered the NLP field out of curiosity and interest and soon realized it was where I belonged.
 
