@@ -4,7 +4,7 @@
 
 💻 I've worked on data-centric projects, highlighting the importance of getting and using high-quality real or synthetic data to get more performant models.
 
-💡 I'm interested in Data Preprocessing, Machine Learning, and Prompt Engineering. Also some of 🐕🎮💪💻.
+💡 I'm interested in Data Preprocessing, Machine Learning, LLM Evaluation, and Prompt Engineering. Also some of 🐕🎮💪💻.
 
 ## How to reach out
 
