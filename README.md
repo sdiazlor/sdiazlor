@@ -2,7 +2,10 @@
 
 ✨ I entered the NLP field out of curiosity and interest and soon realized it was where I belonged.
 
-💻 I've worked on data-centric projects, highlighting the importance of getting and using high-quality real or synthetic data to get more performant models.
+💻 I've worked on:
+
+  - Data-centric projects, highlighting the importance of getting and using high-quality real or synthetic data to get more performant models.
+  - Educational projects, helping the community to understand how AI concepts work with tutorials, blogs and courses.
 
 💡 I'm interested in Data Preprocessing, Machine Learning, LLM Evaluation, AI Efficiency and Prompt Engineering. Also some of 🐕🎮💪💻.
 
